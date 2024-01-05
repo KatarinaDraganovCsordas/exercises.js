@@ -1,1 +1,29 @@
+//a
+alert('Good morning!');
 
+//b
+alert('Katarina');
+
+//c
+10 + 5
+
+//d
+20 - 5
+
+//e
+2 + 2 -5
+
+//f
+document.body.innerHTML = 'Good morning!';
+
+//g
+document.body.innerHTML = 'Katarina';
+
+//h
+10 + 8 + 20
+
+//i 
+100 - 5 - 20 + 200
+
+//j
+document.body.innerHTML = '';
