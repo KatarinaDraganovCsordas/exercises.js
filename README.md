@@ -23,4 +23,4 @@ ps. This README.md is my dedicated space for enhancing my English writing skills
   c. Calculate the total cost of a toaster ($18.50) and 2 shirts ($7.50 each).
   d. Calculate a 10% tax for the total in exercise 2c.
   e. Calculate a 20% tax for the total in exercise 2c.
-  
+  d. setup: toaster $18.99, basketball $20.95, t-shirt $7.99. Calculate the total cost of the products.
