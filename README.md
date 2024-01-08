@@ -26,3 +26,4 @@ ps. This README.md is my dedicated space for enhancing my English writing skills
   f. setup: toaster $18.99, basketball $20.95, t-shirt $7.99. Calculate the total cost of the products. (use cents to avoid inaccuracies)
   g. Add shipping $4.99 to your order. Calculate the total.
   h. Calculate the 10% tax exactly. (use Math.round)
+  i. Calculate the total order.
