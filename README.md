@@ -27,3 +27,4 @@ ps. This README.md is my dedicated space for enhancing my English writing skills
   g. Add shipping $4.99 to your order. Calculate the total.
   h. Calculate the 10% tax exactly. (use Math.round)
   i. Calculate the total order.
+  j. Let's say we want to always round a number down (2.8 => 2). Using Google or an A.I. tool, search for the code to do this.
