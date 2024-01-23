@@ -29,3 +29,6 @@ ps. This README.md is my dedicated space for enhancing my English writing skills
   i. Calculate the total order.
   j. Let's say we want to always round a number down (2.8 => 2). Using Google or an A.I. tool, search for the code to do this.
   k. Let's always round a number up (2.2 => 3). Search how to do this.
+  l. The temperature is 25C. Calculate the temperature in Fahrenheit.
+  m. The temperature is 88F. Calculate the temperature in Celsius.
+  n.   l. The temperature is -5C. Calculate the temperature in Fahrenheit.
