@@ -4,7 +4,7 @@ Welcome to my JavaScript Basics Exercises repository! This collection is designe
 
 ps. This README.md is my dedicated space for enhancing my English writing skills on the keyboard. While I could simply copy-paste exercise images, I opted for this format.
 
-1.
+# 1. exercises
   a. Use alert(); to display 'Good Morning! in a popup.
   b. Display your name in a popup.
   c. Calculate 10+5 in the Console.
@@ -17,7 +17,7 @@ ps. This README.md is my dedicated space for enhancing my English writing skills
   j. Use document.body.innerHTML to make the web blank.
 
   
-2.
+# 2. exercises
   a. At a restaurant, you order 1 soup for $10, 3 burgers for $8 each and 1 ice cream for $5. Use JavaScript to calculate the cost of the order.
   b. You're at a restaurant with 2 friends(3 people in total) and make the same order as 2a. Calculate how much each person pays.
   c. Calculate the total cost of a toaster ($18.50) and 2 shirts ($7.50 each).
